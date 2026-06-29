@@ -1,2 +1,2 @@
 # Titanic-dataset
-Cleaning and visualising the titanic dataset
+Logistic model training using the proprocessed titanic data set
